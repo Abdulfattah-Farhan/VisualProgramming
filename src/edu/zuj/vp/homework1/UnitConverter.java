@@ -1,4 +1,4 @@
-package edu.zuj.vp.w1.sec2;
+package edu.zuj.vp.homework1;
 
 import javax.swing.JOptionPane;
 
